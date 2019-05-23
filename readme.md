@@ -4,7 +4,7 @@ A Zoom Panel Plugin Of Leaflet.
 
 ![](https://img.shields.io/npm/l/express.svg)
 
-[DEMO](https://will4906.github.io/leaflet-zoompanel/dist/index.html)
+[DEMO](https://will4906.github.io/leaflet-zoompanel/)
 
 ## Installation
 

@@ -1,0 +1,27 @@
+.leaflet-zoompanel-control {
+  height: 150px;
+  width: 150px;
+}
+
+.leaflet-control-zoompanel-toggle {
+  z-index: 99999;
+  background: #f8f8f9;
+  background-image: url("images/zoom.png");
+  background-size: cover;
+  position: absolute;
+  left: 50%; /* 定位父级的50% */
+  top: 50%;
+  transform: translate(-50%, -50%); /*自己的50% */
+  cursor: pointer;
+  border-radius: 3px;
+  -moz-box-shadow: 2px 2px 2px #888888; /* 老的 Firefox */
+  box-shadow: 2px 2px 2px #888888;
+}
+
+.leaflet-control-zoom-btn {
+  cursor: pointer;
+  border-radius: 3px;
+  border: 1px solid #888888;
+  -moz-box-shadow: 2px 2px 2px #888888; /* 老的 Firefox */
+  box-shadow: 2px 2px 2px #888888;
+}

@@ -6,6 +6,8 @@ A Zoom Panel Plugin Of Leaflet.
 
 [DEMO](https://will4906.github.io/leaflet-zoompanel/)
 
+![](./doc/toggle.png)
+
 ## Installation
 
 ### Install via npm
